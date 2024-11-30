@@ -3,7 +3,7 @@
 <img src="portada.jfif">
 
 ## Sobre mi:
-<p align="justify"> Empecé en la Programación a mediados del 2018 al empezar a estudiarlo en un politécnico y desde entonces sigo estudiando para poder tener más conocimientos al respecto.Hasta la actualidad solo ando utilizo Python, a menos que sea necesario utilizo otros Lenguajes de Programación.</p>
+<p align="justify"> Empecé en la Programación a mediados del 2018 al empezar a estudiarlo en un politécnico y desde entonces sigo estudiando para poder tener más conocimientos al respecto. Hasta la actualidad solo ando utilizo Python, a menos que sea necesario utilizo otros Lenguajes de Programación.</p>
 
 ## Tecnologías:
 
